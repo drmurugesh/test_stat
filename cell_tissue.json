@@ -1,0 +1,31 @@
+[
+    {
+        "gene": "A1BG",
+        "condition": "White 15 min_50 ng/ml",
+        "control_cell_white": 10,
+        "treatment_cell_white": 12.75,
+        "normal_tissue_white": 1.771,
+        "tumor_tissue_white": 2.162,
+        "control_cell_black": null,
+        "treatment_cell_black": null,
+        "normal_tissue_black": null,
+        "tumor_tissue_black": null,
+        "trend_white": "95.7%",
+        "trend_black": null
+    },
+    {
+        "gene": "A1BG",
+        "condition": "White 15 min_100 ng/ml",
+        "control_cell_white": 10,
+        "treatment_cell_white": 13,
+        "normal_tissue_white": 1.8,
+        "tumor_tissue_white": 2.1,
+        "control_cell_black": null,
+        "treatment_cell_black": null,
+        "normal_tissue_black": null,
+        "tumor_tissue_black": null,
+        "trend_white": "95.8%",
+        "trend_black": null
+    },
+    // More entries...
+]
